@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**lakshmikantdeshpande/lakshmikantdeshpande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Optimist. Dreamer. Learner. Programmer. Supergeek.
 
-Here are some ideas to get you started:
+I like turning ideas into working software: apps, backend systems, tiny tools, and AI experiments. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Extremely curious about AI: podcasts, experiments, and tiny prototypes whenever an idea refuses to stay theoretical.
+
+## Apps 📱
+
+- [Unknown Messenger](https://play.google.com/store/apps/details?id=com.ldeshpande.unknownmessenger) - message without saving contacts
+- [Minku Learns](https://play.google.com/store/apps/details?id=com.programmercat.minkulearns) - offline-first learning companion for kids
+- [Clean My Links](https://play.google.com/store/apps/details?id=com.programmercat.cleanmylinks) - clean tracking junk from URLs
+
+## Tech 🛠️
+
+Java, Spring Boot, Kafka, SQL, MongoDB, TypeScript, Angular, Python, Android, Git, JUnit, LLMs.
+
+## Links 🌐
+
+[LinkedIn](https://www.linkedin.com/in/lakshmikantdeshpande) · [Website](https://ldeshpande.com)
